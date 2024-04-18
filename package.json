@@ -1,13 +1,13 @@
 {
-  "name": "@brr-dev/api",
-  "version": "1.0.3",
-  "description": "A base API controller written in Typescript with handy generics and easy inheritance.",
+  "name": "[NAME]",
+  "version": "0.0.0",
+  "description": "[DESCRIPTION]",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [
     "./dist"
   ],
-  "repository": "https://github.com/brr-dev/api",
+  "repository": "[REPO URL]",
   "author": "Brandon Ramirez <brandon@brr.dev>",
   "license": "MIT",
   "type": "module",
